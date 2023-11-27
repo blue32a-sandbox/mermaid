@@ -8,3 +8,4 @@ https://mermaid.js.org/
 
 - [フローチャート](./syntax/flowchart/)
 - [シーケンス図](./syntax/sequenceDiagram/)
+- [状態図](./syntax/stateDiagram/)
